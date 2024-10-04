@@ -1,0 +1,17 @@
+h1{
+    color: brown;
+    text-align: center;
+    font-size:15px;
+}
+body{
+    font-size:13px;
+    background-color: rgb(255, 251, 206);
+}
+.ChapterI {
+    text-align:center;
+    color: brown;
+}
+.ChapterII{
+    text-align: center;
+    color:brown;
+}
